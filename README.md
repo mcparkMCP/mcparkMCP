@@ -45,8 +45,4 @@ I build in public and I build with AI. My repos are messy, I refactor by rewriti
 
 DVWA and pwnable.kr were fun. Cybersecurity is a hobby. Hare Krishna is a way of life.
 
-If you're a recruiter looking at this profile: I don't grind LeetCode, but I will build your entire platform in a weekend.
-
-## Get in Touch
-
-**Website:** [eujobs.co](https://www.eujobs.co)
+If you're a recruiter looking at this profile: My name is literally MCP, Leetcode +300 solved, I will build your entire platform in a weekend.

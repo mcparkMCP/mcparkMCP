@@ -4,8 +4,6 @@
 
 I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a basic HTML job board — was pulling in over a million euros a year. I thought: *I can do that better.* So I taught myself to code and built [eujobs.co](https://www.eujobs.co). Have been coding ever since.
 
-> `2023` Quit lobbying, wrote my first line of code &nbsp; `2024` Built eujobs v1 in Django, then rewrote it in JavaScript &nbsp; `2025` Rewrote it again in TypeScript, started bug bounties &nbsp; `2026` 80+ repos and counting
-
 ---
 
 ## What I'm Building

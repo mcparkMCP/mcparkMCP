@@ -3,9 +3,6 @@
 I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a simple job board — was pulling in over a million euros a year. I thought: *I know the EU bubble better than most, and I can build something better.* So I taught myself to code and built [eujobs.co](https://www.eujobs.co).
 
 That was the plan anyway. What actually happened is I got completely hooked on building things. Now I can't stop coding.
-
-I'll be honest — I still can't solve easy LeetCodes, and I need AI to get through CodeCrafters challenges. But I ship. I've built and deployed full-stack platforms, reverse-engineered hardware protocols, scraped half the internet, set up production MediaWiki infrastructure, and built AI pipelines that run on cron jobs every morning. I learn by building real things, not by solving toy problems.
-
 ## What I'm Building
 
 **[eujobs.co](https://www.eujobs.co)** — The EU job board I built from scratch. Full-stack Next.js/TypeScript/MongoDB with Stripe payments, AI-powered career tools, recruiter marketplace, and automated job generation rotating through 13,000+ EU lobbying entities. I've rebuilt this thing three times across three tech stacks (Django → JavaScript → TypeScript) because each time I leveled up enough to know the previous version was garbage.

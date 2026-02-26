@@ -1,11 +1,31 @@
 # Hey, I'm Madan
 
-I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a HTML job board — was pulling in over a million euros a year. I thought: *I can do that better* So I taught myself to code and built [eujobs.co](https://www.eujobs.co).
+**Brussels | Ex-Lobbyist | Builder | Hare Krishna**
+
+I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a basic HTML job board — was pulling in over a million euros a year. I thought: *I can do that better.* So I taught myself to code and built [eujobs.co](https://www.eujobs.co). Have been coding ever since.
+
+> `2023` Quit lobbying, wrote my first line of code &nbsp; `2024` Built eujobs v1 in Django, then rewrote it in JavaScript &nbsp; `2025` Rewrote it again in TypeScript, started bug bounties &nbsp; `2026` 80+ repos and counting
+
+---
 
 ## What I'm Building
-**[zmantic](https://github.com/chaollapark/zmantic)** — Domain security scanner. DNS analysis, SSL/TLS validation, HTTP security headers, email security (SPF/DKIM/DMARC), web app scanning. Surprizingly bounties pay well. THis is just the website, I still need to open source the scanner.
 
-**[eujobs.co](https://www.eujobs.co)** — The EU job board I built from scratch. Full-stack Next.js/TypeScript/MongoDB with Stripe payments, AI-powered career tools, recruiter marketplace, and automated job generation rotating through 13,000+ EU lobbying entities. I've rebuilt this thing three times across three tech stacks (Django → JavaScript → TypeScript) because each time I leveled up enough to know the previous version was garbage.
+**[eujobs.co](https://www.eujobs.co)** — The EU job board I built from scratch. Next.js / TypeScript / MongoDB with Stripe payments, AI-powered career tools, recruiter marketplace, and automated job generation rotating through 13,000+ EU lobbying entities. Rebuilt three times across three tech stacks because each time I leveled up enough to know the previous version was garbage.
+
+[![eujobs.co](https://img.shields.io/website?url=https%3A%2F%2Fwww.eujobs.co&style=flat-square&label=eujobs.co)](https://www.eujobs.co)
+[![Google Analytics](https://img.shields.io/badge/Analytics-Live-brightgreen?style=flat-square&logo=googleanalytics&logoColor=white)](https://www.eujobs.co)
+[![Ahrefs](https://img.shields.io/badge/SEO-Ahrefs_Tracked-blue?style=flat-square&logo=ahrefs&logoColor=white)](https://www.eujobs.co)
+
+| Metric | Detail |
+|--------|--------|
+| Employers | 40+ orgs (EU agencies, NGOs, trade associations) |
+| Job Entities | 13,000+ EU lobbying entities in rotation |
+| Tech | Next.js, TypeScript, MongoDB, Stripe, Azure OpenAI |
+| Infra | Vercel + GitHub Actions (2x daily automated job generation) |
+
+---
+
+**[zmantic](https://github.com/chaollapark/zmantic)** — Domain security scanner. DNS analysis, SSL/TLS validation, HTTP security headers, email security (SPF/DKIM/DMARC), web app scanning. Surprisingly, bounties pay well. This is just the website — I still need to open source the scanner.
 
 ## Other Projects
 
@@ -16,6 +36,9 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 **[openparliament](https://github.com/chaollapark/openparliament)** — EU Parliament data transparency tool built with TypeScript.
 
 **[Vani Wiki Infrastructure](https://github.com/chaollapark/vani-upgrade)** — Migrated 8 Vanipedia/Vanisource/Vaniquotes wikis from legacy MediaWiki to MW 1.43 LTS on Docker. 136K+ pages, 46 extensions, 19GB of media. DevOps for a spiritual encyclopedia.
+
+<details>
+<summary><strong>More projects...</strong></summary>
 
 **[prabhupada-letters-cron](https://github.com/chaollapark/newsletter)** — Automated daily newsletter delivering Srila Prabhupada's letters to subscribers. 6,198 letters, runs every morning at 9 AM via GitHub Actions.
 
@@ -28,6 +51,8 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 **[homelab](https://github.com/chaollapark/homelab)** — My home network setup with security monitoring, DVWA/Juice Shop/crAPI labs, network scanning, and SSH welcome banners that show device status.
 
 **[startup-template](https://github.com/chaollapark/startup-template)** — Next.js + TypeScript + Stripe + Clerk SaaS template. Designed for building startups in one day with AI coding tools.
+
+</details>
 
 ## Tech I Use
 
@@ -73,6 +98,13 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 ![Gemini CLI](https://img.shields.io/badge/-Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
+## GitHub Stats
+
+![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaollapark&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaollapark&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/chaollapark)
+
 ## The Honest Version
 
 I build in public and I build with AI. My repos are messy, I refactor by rewriting from scratch, and my git history is a war zone. But every project listed above is real, deployed, and does something useful. I went from zero code to 80+ repos in under three years by just... not stopping.
@@ -80,3 +112,7 @@ I build in public and I build with AI. My repos are messy, I refactor by rewriti
 DVWA and pwnable.kr were fun. Cybersecurity is a hobby. Hare Krishna is a way of life.
 
 If you're a recruiter looking at this profile: My name is literally MCP, Leetcode +300 solved, I will build your entire platform in a weekend.
+
+---
+
+[![Website](https://img.shields.io/badge/-eujobs.co-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.eujobs.co)

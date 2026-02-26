@@ -10,20 +10,7 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 
 ## What I'm Building
 
-**[eujobs.co](https://www.eujobs.co)** — The EU job board I built from scratch. Next.js / TypeScript / MongoDB with Stripe payments, AI-powered career tools, recruiter marketplace, and automated job generation rotating through 13,000+ EU lobbying entities. Rebuilt three times across three tech stacks because each time I leveled up enough to know the previous version was garbage.
-
-[![eujobs.co](https://img.shields.io/website?url=https%3A%2F%2Fwww.eujobs.co&style=flat-square&label=eujobs.co)](https://www.eujobs.co)
-[![Google Analytics](https://img.shields.io/badge/Analytics-Live-brightgreen?style=flat-square&logo=googleanalytics&logoColor=white)](https://www.eujobs.co)
-[![Ahrefs](https://img.shields.io/badge/SEO-Ahrefs_Tracked-blue?style=flat-square&logo=ahrefs&logoColor=white)](https://www.eujobs.co)
-
-| Metric | Detail |
-|--------|--------|
-| Employers | 40+ orgs (EU agencies, NGOs, trade associations) |
-| Job Entities | 13,000+ EU lobbying entities in rotation |
-| Tech | Next.js, TypeScript, MongoDB, Stripe, Azure OpenAI |
-| Infra | Vercel + GitHub Actions (2x daily automated job generation) |
-
----
+**[eujobs.co](https://www.eujobs.co)** — A job board for lobbyists in Brussels.
 
 **[zmantic](https://github.com/chaollapark/zmantic)** — Domain security scanner. DNS analysis, SSL/TLS validation, HTTP security headers, email security (SPF/DKIM/DMARC), web app scanning. Surprisingly, bounties pay well. This is just the website — I still need to open source the scanner.
 

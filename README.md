@@ -2,8 +2,8 @@
 
 I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a simple job board — was pulling in over a million euros a year. I thought: *I know the EU bubble better than most, and I can build something better.* So I taught myself to code and built [eujobs.co](https://www.eujobs.co).
 
-That was the plan anyway. What actually happened is I got completely hooked on building things. Now I can't stop coding.
 ## What I'm Building
+**[zmantic](https://github.com/chaollapark/zmantic)** — Domain security scanner. DNS analysis, SSL/TLS validation, HTTP security headers, email security (SPF/DKIM/DMARC), web app scanning. Surprizingly bounties pay well. THis is just the website, I still need to open source the scanner.
 
 **[eujobs.co](https://www.eujobs.co)** — The EU job board I built from scratch. Full-stack Next.js/TypeScript/MongoDB with Stripe payments, AI-powered career tools, recruiter marketplace, and automated job generation rotating through 13,000+ EU lobbying entities. I've rebuilt this thing three times across three tech stacks (Django → JavaScript → TypeScript) because each time I leveled up enough to know the previous version was garbage.
 
@@ -21,13 +21,11 @@ That was the plan anyway. What actually happened is I got completely hooked on b
 
 **[apple-smc-linux](https://github.com/chaollapark/apple-smc-linux)** — Reverse-engineered the Apple System Management Controller protocol so Linux can talk to Mac hardware. Fan control, temperature sensors, power management.
 
-**[gptandme](https://github.com/chaollapark/gptandme)** — Chrome extension that counts your ChatGPT prompts. Published on the Chrome Web Store.
+**[gptandme](https://github.com/chaollapark/gptandme)** — Chrome extension that counts your ChatGPT prompts.
 
-**[oura_direct](https://github.com/chaollapark/oura_direct)** — Local-only Oura Ring 4 health data app in Dart/Flutter. No cloud, no accounts — reads sleep, HRV, and heart rate directly via BLE.
+**[oura_direct](https://github.com/chaollapark/oura_direct)** — Local-only Oura Ring 4 health data app in Dart/Flutter. No cloud, no accounts — reads sleep, HRV, and heart rate directly via BLE. Still working on it.
 
 **[homelab](https://github.com/chaollapark/homelab)** — My home network setup with security monitoring, DVWA/Juice Shop/crAPI labs, network scanning, and SSH welcome banners that show device status.
-
-**[zmantic](https://github.com/chaollapark/zmantic)** — Domain security scanner. DNS analysis, SSL/TLS validation, HTTP security headers, email security (SPF/DKIM/DMARC), web app scanning.
 
 **[startup-template](https://github.com/chaollapark/startup-template)** — Next.js + TypeScript + Stripe + Clerk SaaS template. Designed for building startups in one day with AI coding tools.
 

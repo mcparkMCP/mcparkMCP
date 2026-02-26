@@ -1,6 +1,6 @@
 # Hey, I'm Madan
 
-I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a simple job board — was pulling in over a million euros a year. I thought: *I know the EU bubble better than most, and I can build something better.* So I taught myself to code and built [eujobs.co](https://www.eujobs.co).
+I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a HTML job board — was pulling in over a million euros a year. I thought: *I can do that better* So I taught myself to code and built [eujobs.co](https://www.eujobs.co).
 
 ## What I'm Building
 **[zmantic](https://github.com/chaollapark/zmantic)** — Domain security scanner. DNS analysis, SSL/TLS validation, HTTP security headers, email security (SPF/DKIM/DMARC), web app scanning. Surprizingly bounties pay well. THis is just the website, I still need to open source the scanner.

@@ -85,21 +85,3 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 ![Gemini CLI](https://img.shields.io/badge/-Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-## GitHub Stats
-
-![Madan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaollapark&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaollapark&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/chaollapark)
-
-## The Honest Version
-
-I build in public and I build with AI. My repos are messy, I refactor by rewriting from scratch, and my git history is a war zone. But every project listed above is real, deployed, and does something useful. I went from zero code to 80+ repos in under three years by just... not stopping.
-
-DVWA and pwnable.kr were fun. Cybersecurity is a hobby. Hare Krishna is a way of life.
-
-If you're a recruiter looking at this profile: My name is literally MCP, Leetcode +300 solved, I will build your entire platform in a weekend.
-
----
-
-[![Website](https://img.shields.io/badge/-eujobs.co-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.eujobs.co)

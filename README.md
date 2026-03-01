@@ -6,9 +6,9 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 
 ## What I'm Building
 
-**[eujobs.co](https://www.eujobs.co)** — A job board for lobbyists in Brussels.
 
-**[zmantic](https://github.com/chaollapark/zmantic)** — Domain security scanner. DNS analysis, SSL/TLS validation, HTTP security headers, email security (SPF/DKIM/DMARC), web app scanning. Surprisingly, bounties pay well. This is just the website — I still need to open source the scanner.
+
+
 
 ## Other Projects
 
@@ -22,6 +22,10 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 
 <details>
 <summary><strong>More projects...</strong></summary>
+  
+**[eujobs.co](https://www.eujobs.co)** — A job board for lobbyists in Brussels.
+
+**[zmantic](https://github.com/chaollapark/zmantic)** — Domain security scanner. DNS analysis, SSL/TLS validation, HTTP security headers, email security (SPF/DKIM/DMARC), web app scanning. Surprisingly, bounties pay well. This is just the website — I still need to open source the scanner.
 
 **[prabhupada-letters-cron](https://github.com/chaollapark/newsletter)** — Automated daily newsletter delivering Srila Prabhupada's letters to subscribers. 6,198 letters, runs every morning at 9 AM via GitHub Actions.
 

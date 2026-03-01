@@ -82,6 +82,7 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![G3 CLI](https://img.shields.io/badge/-G3_CLI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/-Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 

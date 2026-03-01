@@ -18,7 +18,7 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 
 **[openparliament](https://github.com/chaollapark/openparliament)** — EU Parliament data transparency tool built with TypeScript.
 
-**[Vani Wiki Infrastructure](https://github.com/chaollapark/vani-upgrade)** — Migrated 8 Vanipedia/Vanisource/Vaniquotes wikis from legacy MediaWiki to MW 1.43 LTS on Docker. 136K+ pages, 46 extensions, 19GB of media. DevOps for a spiritual encyclopedia.
+**[Vani Wiki Infrastructure](https://github.com/chaollapark/vani-upgrade)** — Upgraded 8 custom wikis from legacy MediaWiki 1.23 to MW 1.43 LTS on Docker. 136K+ pages, 46 extensions, 19GB of media. DevOps for a spiritual encyclopedia.
 
 <details>
 <summary><strong>More projects...</strong></summary>

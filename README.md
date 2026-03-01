@@ -6,8 +6,9 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 
 ## What I'm Building
 
+**OpenClaw + Odoo** — Building an OpenClaw layer on top of Odoo to automate business workflows with AI agents.
 
-
+**OpenClaw + eujobs** — Adding an OpenClaw layer to [eujobs.co](https://www.eujobs.co) so it handles sales automatically — outreach, follow-ups, and closing.
 
 
 ## Other Projects
@@ -51,6 +52,7 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -78,11 +80,14 @@ I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](
 ![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-**AI-Powered Development**
+**AI & ML**
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![G3 CLI](https://img.shields.io/badge/-G3_CLI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Gemini CLI](https://img.shields.io/badge/-Gemini_CLI-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 

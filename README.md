@@ -1,6 +1,6 @@
 # Hey, I'm Madan
 
-I used to be a lobbyist in Brussels. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a basic HTML job board — was pulling in over a million euros a year. I thought: *I can do that better.* So I taught myself to code and built [eujobs.co](https://www.eujobs.co). Have been coding ever since.
+I used to be a lobbyist. One day I noticed that [jobs.euractiv.com](https://jobs.euractiv.com) — a basic HTML job board — was pulling in over a million euros a year. I thought: *I can do that better.* So I taught myself to code and built [eujobs.co](https://www.eujobs.co). Have been coding ever since.
 
 ---
 

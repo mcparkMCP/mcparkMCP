@@ -1,7 +1,5 @@
 # Hey, I'm Madan
 
----
-
 ## What I'm Building
 
 **OpenClaw + Odoo** — Building an OpenClaw layer on top of Odoo to automate business workflows with AI agents.
